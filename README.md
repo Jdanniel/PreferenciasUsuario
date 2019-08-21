@@ -1,6 +1,6 @@
 # preferencias_usuario_app
 
-A new Flutter project.
+Proyecto Flutter (SharedPreferences).
 
 ## Getting Started
 
